@@ -1,0 +1,14 @@
+.obsidian/
+.trash/
+
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.pdf
+*.docx
+*.xlsx
+
+.DS_Store
+Thumbs.db

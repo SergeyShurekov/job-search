@@ -1,17 +1,17 @@
 ---
-company: "Business-up.org"
-domain: "business-up.org"
-role: "SEO-специалист с фокусом на лидогенерацию"
-status: "Отклик отправлен"
+company: Business-up.org
+domain: business-up.org
+role: SEO-специалист с фокусом на лидогенерацию
+status: Тестовое задание отправлено
 priority: high
 date_applied: 2026-10-26
-application_method: "hh.ru, сопроводительное сообщение"
-url: "https://sochi.hh.ru/vacancy/138825625"
-location: "Удалённо / гибрид / Волгоград"
+application_method: hh.ru, сопроводительное сообщение
+url: https://sochi.hh.ru/vacancy/138825625
+location: Удалённо / гибрид / Волгоград
 salary_min: 90000
 salary_max: 140000
-salary_currency: "RUB"
-salary_period: "месяц"
+salary_currency: RUB
+salary_period: месяц
 next_followup:
 ---
 
@@ -78,6 +78,7 @@ next_followup:
 | 26.10.2026 | Отправлен отклик | Ожидается анкета кандидата или ответ работодателя |
 | 27.10.2026 | Выслали анкету   | заполнил, отправил                                |
 | 28.10.2026 | собеседование    | выслали тестовое                                  |
+| 29.10.2026 | тестовое         | выполнено, отправлено                             |
 
 ## Решение
 

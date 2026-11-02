@@ -1,21 +1,21 @@
 ---
-company: "МАКСИМУС МЕДИА"
-domain: "maximusmedia.pro"
-role: "SEO-специалист в digital-агентство"
-status: "Отклик отправлен"
+company: maximus media
+domain: maximusmedia.pro
+role: SEO-специалист в digital-агентство
+status:
 priority: high
 date_applied: 2026-10-26
-application_method: "hh.ru, сопроводительное сообщение с кодовой фразой"
-url: "https://sochi.hh.ru/vacancy/138793657"
-location: "Удалённо"
+application_method: hh.ru, сопроводительное сообщение с кодовой фразой
+url: https://sochi.hh.ru/vacancy/138793657
+location: Удалённо
 salary_min: 80000
 salary_max: 100000
-salary_currency: "RUB"
-salary_period: "месяц, на руки"
+salary_currency: RUB
+salary_period: месяц, на руки
 next_followup:
 ---
 
-# МАКСИМУС МЕДИА — SEO-специалист
+# maximus media — SEO-специалист
 
 ## Вакансия
 
@@ -76,9 +76,11 @@ next_followup:
 
 ## История взаимодействия
 
-| Дата | Событие | Результат |
-|---|---|---|
+| Дата       | Событие                                        | Результат                    |
+| ---------- | ---------------------------------------------- | ---------------------------- |
 | 26.10.2026 | Отправлен отклик с сопроводительным сообщением | Ожидается ответ работодателя |
+| 27.10.2026 | собеседование                                  | состоялось                   |
+| 29.10.2026 | отправлены примеры ТЗ                          | жду ответ                    |
 
 ## Решение
 

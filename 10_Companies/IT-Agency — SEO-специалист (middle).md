@@ -1,17 +1,17 @@
 ---
-company: "IT-Agency"
-domain: "https://www.it-agency.ru/"
-role: "SEO-специалист (middle)"
-status: "Отклик отправлен"
+company: IT-Agency
+domain: https://www.it-agency.ru/
+role: SEO-специалист (middle)
+status: отказ
 priority: high
 date_applied: 2026-10-21
-application_method: "HH.ru"
-url: "https://sochi.hh.ru/vacancy/138142519"
-location: "Удалённо"
+application_method: HH.ru
+url: https://sochi.hh.ru/vacancy/138142519
+location: Удалённо
 salary_min: 80000
 salary_max: 110000
-salary_currency: "RUB"
-salary_period: "месяц"
+salary_currency: RUB
+salary_period: месяц
 next_followup: 2026-10-24
 ---
 
@@ -21,7 +21,7 @@ next_followup: 2026-10-24
 
 **Роль:** SEO-специалист (middle)
 
-**Статус:** Отклик отправлен
+**Статус:** отказ
 
 **Приоритет:** Высокий
 
@@ -86,6 +86,7 @@ next_followup: 2026-10-24
 | 21.10.2026 | Отправлено сопроводительное сообщение | Ожидается обратная связь |
 | 23.10.2026 | выполнено тестовое                    | на проверке              |
 | 28.10.2026 | собеседование с Ксения, HR-менеджер   |                          |
+| 03.11.2026 | сообщение в Телеграм                  | отказ                    |
 
 ## Решение
 

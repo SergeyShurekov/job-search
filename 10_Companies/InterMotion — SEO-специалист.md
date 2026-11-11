@@ -2,7 +2,7 @@
 company: InterMotion
 domain: ""
 role: SEO-специалист
-status: jотказ
+status: отказ
 priority: low
 date_applied: 2026-10-21
 application_method: HH.ru
@@ -22,7 +22,7 @@ date_interview: 2026-10-22
 
 **Роль:** SEO-специалист
 
-**Статус:** Собеседование состоялось, ожидается решение
+**Статус:** отказ
 
 **Приоритет:** Средний
 

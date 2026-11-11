@@ -1,17 +1,17 @@
 ---
-company: "Seojazz"
-domain: "seojazz.ru"
-role: "Middle+/Senior SEO-специалист"
-status: "Отклик отправлен"
+company: Seojazz
+domain: seojazz.ru
+role: Middle+/Senior SEO-специалист
+status: отказ
 priority: medium-high
 date_applied: 2026-10-26
-application_method: "hh.ru, ответы на пять вопросов и сопроводительное сообщение"
-url: "https://sochi.hh.ru/vacancy/138702799"
-location: "Удалённо"
+application_method: hh.ru, ответы на пять вопросов и сопроводительное сообщение
+url: https://sochi.hh.ru/vacancy/138702799
+location: Удалённо
 salary_min: 60000
 salary_max: 100000
-salary_currency: "RUB"
-salary_period: "месяц, до вычета налогов"
+salary_currency: RUB
+salary_period: месяц, до вычета налогов
 next_followup:
 ---
 
@@ -21,7 +21,7 @@ next_followup:
 
 **Роль:** Middle+/Senior SEO-специалист
 
-**Статус:** Отклик отправлен
+**Статус:** отказ
 
 **Приоритет:** Средне-высокий
 
@@ -77,9 +77,10 @@ next_followup:
 
 ## История взаимодействия
 
-| Дата | Событие | Результат |
-|---|---|---|
+| Дата       | Событие                                    | Результат                                             |
+| ---------- | ------------------------------------------ | ----------------------------------------------------- |
 | 26.10.2026 | Отправлен отклик и ответы на пять вопросов | Ожидается приглашение на встречу или тестовое задание |
+| 28.10.2026 | отказ                                      |                                                       |
 
 ## Решение
 

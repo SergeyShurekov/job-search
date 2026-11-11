@@ -1,17 +1,17 @@
 ---
-company: "МеталлНефтеПроект"
-domain: "metallnp.ru"
-role: "SEO-специалист"
-status: "Отклик отправлен"
+company: МеталлНефтеПроект
+domain: metallnp.ru
+role: SEO-специалист
+status: отказ
 priority: high
 date_applied: 2026-10-26
-application_method: "hh.ru, сопроводительное сообщение"
-url: "https://sochi.hh.ru/vacancy/138820081"
-location: "Удалённо / гибрид / Екатеринбург"
+application_method: hh.ru, сопроводительное сообщение
+url: https://sochi.hh.ru/vacancy/138820081
+location: Удалённо / гибрид / Екатеринбург
 salary_min: 70000
 salary_max: 100000
-salary_currency: "RUB"
-salary_period: "месяц"
+salary_currency: RUB
+salary_period: месяц
 next_followup:
 ---
 
@@ -73,9 +73,10 @@ next_followup:
 
 ## История взаимодействия
 
-| Дата | Событие | Результат |
-|---|---|---|
+| Дата       | Событие          | Результат                    |
+| ---------- | ---------------- | ---------------------------- |
 | 26.10.2026 | Отправлен отклик | Ожидается ответ работодателя |
+| 05.11.2026 | отказ            |                              |
 
 ## Решение
 

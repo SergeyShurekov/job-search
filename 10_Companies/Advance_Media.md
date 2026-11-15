@@ -1,13 +1,13 @@
 ---
-company: "УП Эдванс медиа (Advance Media)"
-domain: "https://adv-media.by/"
-role: "SEO-специалист"
-status: "considering"
-priority: "B/C — уточнить условия"
+company: УП Эдванс медиа (Advance Media)
+domain: https://adv-media.by/
+role: SEO-специалист
+status: отказ
+priority: B/C — уточнить условия
 date_applied:
 application_method: ""
-url: "https://gsz.gov.by/registration/employer/vacancy/1576519/detail-public/"
-location: "Минск, Беларусь; удалённо, гибрид или офис"
+url: https://gsz.gov.by/registration/employer/vacancy/1576519/detail-public/
+location: Минск, Беларусь; удалённо, гибрид или офис
 salary_min:
 salary_max:
 salary_currency: ""
@@ -95,9 +95,11 @@ next_followup:
 
 ## История взаимодействия
 
-| Дата | Событие | Результат |
-|---|---|---|
+| Дата       | Событие                                                    | Результат                                                                        |
+| ---------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | 09.11.2026 | Вакансия рассмотрена; подготовлено сопроводительное письмо | Решение об отправке отклика принято пользователем; отправка пока не подтверждена |
+| 09.11.2026 | письмо отправлено                                          |                                                                                  |
+| 11.11.2026 | отказ                                                      |                                                                                  |
 
 ## Решение
 
